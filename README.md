@@ -6,4 +6,16 @@
 - This liner model does predict the mpg of the MechaCar prototypes effectively as the R-squared value(0.7119) is greater than .07. 
 - Results:
 
-  ![Results](https://github.com/jediracer/MechaCar_Statistical_Analysis/blob/main/images/MechaCar_mpg_prediction.png)	
+  ![Results](https://github.com/jediracer/MechaCar_Statistical_Analysis/blob/main/images/MechaCar_mpg_prediction.png)
+  
+## Summary Statistics on Suspension Coils
+- Based on the variance allowance of 100 pounds per square inch for the MechaCar suspension coils, not all of manufacturing lots are meeting the design specification.  
+  Lots 1 & 2 are meeting the design specification.  Lot 3 is not meeting the design specification based on the Lot Summary shown below.
+
+- Total Summary
+
+  ![Total_Summary](https://github.com/jediracer/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png)
+  
+- Lot Summary
+
+  ![Lot_Summary](https://github.com/jediracer/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.png)
