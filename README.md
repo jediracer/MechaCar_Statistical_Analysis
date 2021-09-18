@@ -9,8 +9,7 @@
   ![Results](https://github.com/jediracer/MechaCar_Statistical_Analysis/blob/main/images/MechaCar_mpg_prediction.png)
   
 ## Summary Statistics on Suspension Coils
-- Based on the variance allowance of 100 pounds per square inch for the MechaCar suspension coils, not all of manufacturing lots are meeting the design specification.  
-  Lots 1 & 2 are meeting the design specification.  Lot 3 is not meeting the design specification based on the Lot Summary shown below.
+- Based on the variance allowance of 100 pounds per square inch for the MechaCar suspension coils, the manufacturing lots as a whole are meeting the design specification. However, Lot 3 is not meeting the design specification based on the Lot Summary shown below.
 
 - Total Summary
 
